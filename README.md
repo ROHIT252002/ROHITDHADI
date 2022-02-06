@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Ramesh Dhadi</h1>
-<h3 align="center">A passionate student for game developing and programming from India</h3>
+<h3 align="center">A passionate student for game developer and programmer from India</h3>
+
+- 🔭 I’m currently working on **my second game on unreal engine**
+
+- 👯 I’m looking to collaborate on **AR and VR games**
+
+- 🤝 I’m looking for help with **interested game developers and animators ,also mentors who can guide**
 
 - 💬 Ask me about **Game development ,animation ,programming and development**
 
