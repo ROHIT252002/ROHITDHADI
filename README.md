@@ -18,6 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/25dhadirohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="25dhadirohit" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rohitdhadi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rohitdhadi25" height="30" width="40" /></a>
+<a href="https://fb.com/rohitdhadi25@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitdhadi25@gmail.com" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohitdhadi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohitdhadi25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
