@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Ramesh Dhadi</h1>
 <h3 align="center">A passionate student for game developer and programmer from India</h3>
+ <img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1838%2F1*A2kD2TskQtP56OKXC1owMg.gif&imgrefurl=https%3A%2F%2Fmedium.com%2F%40mishaallakhani%2Fready-student-one-the-other-side-to-virtual-reality-56db5b31e9dc&tbnid=YJpJbovTQGHjRM&vet=12ahUKEwjbmvHF3Or1AhW_7rsIHbj4B1UQMygOegUIARCCAg..i&docid=EnHjXwEbQNGx5M&w=870&h=500&q=gif%20bboy%20ar%20and%20vr&ved=2ahUKEwjbmvHF3Or1AhW_7rsIHbj4B1UQMygOegUIARCCAg?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **my second game on unreal engine**
 
